@@ -5,7 +5,7 @@ https://velog.io/@rohkorea86/MongoDB%EC%84%A4%EC%B9%98-%EB%A7%A5MAC%EC%97%90%EC%
 https://www.askcompany.kr/
 
 장고 게시판 만들기 <br>
-https://github.com/spacewhales/Django_Project
+https://github.com/spacewhales/Django_Project <br>
 https://blog.naver.com/claude17
 
 
