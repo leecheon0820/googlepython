@@ -9,3 +9,5 @@ https://github.com/spacewhales/Django_Project <br>
 https://blog.naver.com/claude17
 
 
+장고를 이용한 웹사이트 만들기<br>
+https://programmers.co.kr/learn/courses/6
